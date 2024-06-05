@@ -23,3 +23,4 @@ function displayPosts(data) {
 }
 loadPosts();
 
+
